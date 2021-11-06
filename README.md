@@ -2,6 +2,8 @@
 
 This is a free password manager I made that stores data locally because my mom was annoyed at how many different accounts data she needed to store.
 
+Current version: `1.0.0`
+
 ## Installation
 
 To install the needed dependencies open the `install.bat` file located in the main folder.
